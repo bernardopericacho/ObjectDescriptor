@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<objetos>
+	<objeto id="0" tipo="cubo">
+		<color>azul</color>
+		<tamano>1,1,1</tamano>
+		<coordenadas>1,1,1</coordenadas>
+	</objeto>
+	<objeto id="1" tipo="cono">
+		<color>verde</color>
+		<tamano>1,1,1</tamano>
+		<coordenadas>3,2,4</coordenadas>
+	</objeto>
+	<objeto id="2" tipo="cubo">
+		<color>azul</color>
+		<tamano>2,2,3</tamano>
+		<coordenadas>5,3,5</coordenadas>
+	</objeto>
+</objetos>
+
+
+

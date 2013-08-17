@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<objetos>
+	<objeto id="0" tipo="cubo">
+		<color>rojo</color>
+		<tamano>1.0,1.0,1.0</tamano>
+		<coordenadas>1.1,0.0,6.0</coordenadas>
+	</objeto>
+	<objeto id="1" tipo="cono">
+		<color>verde</color>
+		<tamano>1.0,1.0,1.0</tamano>
+		<coordenadas>1.1,1.0,6.0</coordenadas>
+	</objeto>
+	<objeto id="2" tipo="cubo">
+		<color>verde</color>
+		<tamano>2.0,2.0,2.0</tamano>
+		<coordenadas>4.0,0.0,7.0</coordenadas>
+	</objeto>
+	<objeto id="3" tipo="cono">
+		<color>azul</color>
+		<tamano>2.0,2.0,2.0</tamano>
+		<coordenadas>6.4,0.01,0.6</coordenadas>
+	</objeto>
+	<objeto id="4" tipo="cono">
+		<color>rojo</color>
+		<tamano>1.0,3.0,1.0</tamano>
+		<coordenadas>4.5,2.0,6.5</coordenadas>
+	</objeto>
+	<objeto id="5" tipo="cubo">
+		<color>rojo</color>
+		<tamano>2.0,3.0,3.0</tamano>
+		<coordenadas>0.0,0.0,4.0</coordenadas>
+	</objeto>
+	<objeto id="6" tipo="cubo">
+		<color>verde</color>
+		<tamano>2.0,2.0,2.0</tamano>
+		<coordenadas>3.0,0.0,4.6</coordenadas>
+	</objeto>
+	<objeto id="7" tipo="cubo">
+		<color>azul</color>
+		<tamano>2.0,4.0,1.0</tamano>
+		<coordenadas>3.0,0.0,0.6</coordenadas>
+	</objeto>
+</objetos>
+
+
+
